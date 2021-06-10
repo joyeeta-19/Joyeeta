@@ -1,6 +1,5 @@
 ### Hi there, I'm Joyeeta 👋
 
-![Joyeeta's views](https://komarev.com/ghpvc/?username=joyeeta-19)
 
 ## I'm a Sophomore, BTech CSE in VIT Chennai
 
