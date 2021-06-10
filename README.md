@@ -1,6 +1,6 @@
 ### Hi there, I'm Joyeeta 👋
 
-
+![Joyeeta's views](https://komarev.com/ghpvc/?username=joyeeta-19)
 
 ## I'm a Sophomore, BTech CSE in VIT Chennai
 
@@ -14,19 +14,13 @@
 
 ### Languages and Tools:
 
-- C++
-- C
-- Java
-- Python
-- HTML
-- CSS 
-- Bootstrap
-- Javascript
-- PHP
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyeeta-19&langs_count=8&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some intersting stats of my profile -
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyeeta-19&count_private=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joyeeta-19&langs_count=8&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align='center'>
+ <a href="https://www.instagram.com/d_joyee_ta/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joyeeta-dey-8729921a7"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp
+<a href="https://twitter.com/JoyeetaDey19"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
