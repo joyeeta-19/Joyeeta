@@ -1,7 +1,7 @@
 ### Hi there, I'm Joyeeta 👋
 
 
-## I'm a Sophomore, BTech CSE in VIT Chennai
+## I'm an Undergraduate, BTech CSE in VIT Chennai
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop my skills to add to my resume
