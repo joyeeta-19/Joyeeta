@@ -5,9 +5,9 @@
 </p>
 
 ## 🔥 Streaks & Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyeetadey&theme=algolia" alt="candida18" width="450" height="192px"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joyeetadey&theme=algolia" alt="candida18" width="250" height="192px"/>
     <a href="https://github.com/anuraghazra/github-readme-stats"> &emsp;&emsp;
-     <img alt="Joyeeta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joyeetadey&show_icons=true&count_private=true&theme=algolia" width="450" height="192px"/></a>
+     <img alt="Joyeeta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=joyeetadey&show_icons=true&count_private=true&theme=algolia" width="250" height="192px"/></a>
 </p>
 <!-- <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyeetadey&langs_count=8&layout=compact&theme=algolia" width="450" height="192px"/></a>
