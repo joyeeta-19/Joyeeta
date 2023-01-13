@@ -9,7 +9,7 @@
 ```javascript
 const joyeeta = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  code: [C++, Javascript, Typescript, HTML, CSS, Python, Java],
   tools: [React, Php, Node, MySql, R Studio, Docker, Kubernetes, Linux],
   design: ["Adobe Illustrator","Adobe Photoshop","Figma","Adobe Premiere Pro"]
 }
